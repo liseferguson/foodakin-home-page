@@ -101,10 +101,15 @@ body
 
 }*/
 
+.home-row-b .icon {
+    padding-top: 50px;
+}
+
 /* row b */
 .home-row-b
 {
     background-color: antiquewhite;
+    padding-top: 50px;
 }
 
 .home-row-b h2
@@ -131,6 +136,8 @@ body
     background-color: #cc6600;
 }
 
+
+
 .home-row-c p
 {
     text-align: center;
@@ -146,6 +153,11 @@ body
     background-color: #595959;
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+.home-row-d .icon {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .home-row-d .h4
